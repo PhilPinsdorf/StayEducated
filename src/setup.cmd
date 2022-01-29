@@ -19,7 +19,7 @@ echo/
 
 :: Copy Python File, Goto Final Directory and paste it
 echo Copying File
-copy main.pyw "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
+copy stay_educated.pyw "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 echo/
 
 :: Once done, exit the batch file after user input
