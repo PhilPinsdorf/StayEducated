@@ -1,5 +1,6 @@
 # StayEducated
 Leightweight Project to automaticly open a Browser Tab with a Livestream of the news every day at 8pm.
+The choosen news, that are displayed is the [Tagesschau](https://www.tagesschau.de/). The Exact Stream from tagesschau24 can be found [here](https://www.tagesschau.de/multimedia/livestreams/livestream-1-101~player.html).
 
 ## Installation 
 IMPORTANT: This Application currently only works on the Windows Operating System and with Python installed.
